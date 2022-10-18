@@ -4,3 +4,7 @@
 
 2.	Handle the following custom conversion specifiers:
 
+COLLABORATORS
+JOANNE AKOZOR
+CHUKA AKOZOR
+
